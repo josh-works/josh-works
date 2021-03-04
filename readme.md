@@ -13,13 +13,11 @@ I _just_ set up a Github sponsors profile:
 
 Look over it, give me feedback, consider contributing between $1 and $12,000/month.
 
-That'll 
-
-(Yes, I am serious, and those are both reasonable figures, depending on... well, _you_. )
+(Yes, I am serious, and those are both reasonable figures, depending on... well, _you_, and circumstances about your life. )
 
 I [like to grab coffee with people](https://josh.works/coffee). If you're in Golden, and the weather's warm enough to be outside, let's grab a coffee in person: https://calendly.com/joshthompson/coffee
 
-If you're _not_ in Golden, lets meet up via Zoom. (The above URL still works)
+If you're _not_ in Golden, lets meet up via Zoom. ☝️ use that URL.
 
 
 
