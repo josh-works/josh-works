@@ -17,7 +17,7 @@ Look over it, give me feedback, consider contributing between $1 and $12,000/mon
 
 I [like to grab coffee with people](https://josh.works/coffee). If you're in Golden, and the weather's warm enough to be outside, let's grab a coffee in person: https://calendly.com/joshthompson/coffee
 
-If you're _not_ in Golden, lets meet up via Zoom. ☝️ use that URL.
+If you're _not_ in Golden, lets meet up via Zoom. ☝️ use the above Calendly URL.
 
 
 
