@@ -2,6 +2,7 @@ Ahoy! 👋
 
 I'll slowly bring over information to here from:
 
+- [@josh_works](https://twitter.com/josh_works)
 - [josh.works/about](https://josh.works/about)
 - [intermediateruby.com/about](https://intermediateruby.com/about)
 
