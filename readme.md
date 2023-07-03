@@ -4,15 +4,13 @@ In some domains, I find it helpful to write about what I'm trying to do, why I'm
 
 Software is one of those domains, so some of what I do and write about relates to "software", however that's defined, and numerous related domains.
 
-For this, I charge somewhere between $0 and $12,000.
+I'm often happy to [grab a coffee](https://josh.works/coffee).
 
-Yes, I am serious, and those are both reasonable figures, depending on... well, _you_, and circumstances about your life.
+A current-enough project is to [map my own mobility data](https://mobility-data.herokuapp.com/), as gathered via the Strava app/API. 
 
-I [like to grab coffee with people](https://josh.works/coffee). 
+In my ideal world, I'd bring to life some of the principles contained within [The High Cost of Free Parking](https://www.amazon.com/High-Cost-Free-Parking-Updated/dp/193236496X), [Order Without Design](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765), and [A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199).
 
-If you're in or passing through Golden, Colorado, I'm happy to meet up! I climb regularly at the local climbing gyms, and have a 125cc moped that I love to ride all over town, and will definately try to convince you to get one too. https://calendly.com/joshthompson/coffee.
-
-If you're _not_ in Golden, lets meet up via Zoom. ☝️ use the above Calendly URL.
+Until then, I still work in/on 'the software industry'. B2B SaaS businesses using Ruby and Rails has been the constant thread through much of my work career. 
 
 
 
