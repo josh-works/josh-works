@@ -1,20 +1,15 @@
 Hi there! 👋
 
-In my ideal world, this bio would say:
+Here's the current best take of the readme for Josh:
 
-> Embedded in {team}, I work in {city} to 'garden' very specific places and pathways, generally according to the principles of [A Pattern Language: Towns, Buildings, Construction](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199), [Order Without Design](https://www.amazon.com/Order-without-Design-Markets-Cities/dp/0262038765), and [The High Cost of Free Parking](https://www.amazon.com/High-Cost-Free-Parking-Updated/dp/193236496X).
-> 
-> This work makes these spaces dramatically safer and more enjoyable to experience, at many different levels.
-> 
-> Because they're more enjoyable and safer, all involved parties feel like they have a little more time, beauty, and ease in their days. They also have more income, and have reduced their operating expenses.
+> My energy sometimes goes to software, sometimes hardware, according to the principles of [practical object oriented design in ruby](https://www.poodr.com/), [a pattern language](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199), and [the high cost of free parking](https://www.amazon.com/High-Cost-Free-Parking-Updated/dp/193236496X).
 
-Until then, I still work in/on 'the software industry'. B2B SaaS businesses using Ruby and Rails has been the constant thread through much of my work career.
+I'd most like to work on the real-world traffic problems, applying ideas banal and common in manufacturing and software, to the road network in Denver.
 
-A current-enough project is to [map my own mobility data](https://mobility-data.herokuapp.com/). Here's the [underlying github repo](https://github.com/josh-works/polyline-model-with-mark)
+I enjoy lots about the work in/around 'software', though. :) Ruby/Rails & B2B SaaS has been a major theme of my work, and the current focus is 'make your rails test suite _way_ faster, saving the entire team time and money.' 
 
-The data is interesting, in my opinion.
+Test run time is complicated, all else equal, _I_ prefer tests/builds to "feel fast(er)", but also don't mind horribly when they incrementally get a bit slower. If yours are or have been becoming slower than you really want, lets talk! 
 
-Email is in my bio. Feel free to say hello.
+Examples: 20 min test suite to 12:30. 5 minute test suite to 1:20. [96 suite to 40](https://github.com/openstreetmap/openstreetmap-website/pull/4708#issuecomment-2068149343), or if your machine is slower, ~8 minutes to ~3.5. _etc_. I like to work on the 🚅-sized test suites too. 
 
-
-
+Email is in my bio. Happy to snag a virtual ☕, or 🚶through 🧀 park in Denver: [https://josh.works/coffee](https://josh.works/coffee)
